@@ -23,4 +23,4 @@ A simple web application that recommends a movie based on the user's preferences
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-recommendation-system.git
+   git clone https://github.com/Bhavyakukreti/movies-recommendation-system.git

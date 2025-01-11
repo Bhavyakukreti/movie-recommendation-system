@@ -1,0 +1,17 @@
+[
+    { "title": "The Grand Budapest Hotel", "genre": "Comedy", "duration": "Medium", "mood": "Happy", "description": "a quirky comedy film with a runtime of 99 minutes." },
+    { "title": "Superbad", "genre": "Comedy", "duration": "Short", "mood": "Relaxed", "description": "a hilarious comedy with a runtime of 88 minutes." },
+    { "title": "The Big Sick", "genre": "Comedy", "duration": "Long", "mood": "Excited", "description": "a heartfelt romantic comedy with a runtime of 124 minutes." },
+    { "title": "Mad Max: Fury Road", "genre": "Action", "duration": "Medium", "mood": "Adventurous", "description": "an adrenaline-pumping action film with a runtime of 120 minutes." },
+    { "title": "John Wick", "genre": "Action", "duration": "Short", "mood": "Excited", "description": "a high-octane thriller with a runtime of 89 minutes." },
+    { "title": "The Dark Knight", "genre": "Action", "duration": "Long", "mood": "Happy", "description": "an epic superhero movie with a runtime of 152 minutes." },
+    { "title": "The Shawshank Redemption", "genre": "Drama", "duration": "Long", "mood": "Relaxed", "description": "a timeless story of hope and friendship." },
+    { "title": "12 Angry Men", "genre": "Drama", "duration": "Short", "mood": "Happy", "description": "a powerful courtroom drama with a runtime of 96 minutes." },
+    { "title": "The Pursuit of Happyness", "genre": "Drama", "duration": "Medium", "mood": "Excited", "description": "an inspiring tale of determination with a runtime of 117 minutes." },
+    { "title": "The Conjuring", "genre": "Horror", "duration": "Medium", "mood": "Excited", "description": "a spine-chilling supernatural thriller." },
+    { "title": "Get Out", "genre": "Horror", "duration": "Short", "mood": "Happy", "description": "a gripping horror film with social commentary." },
+    { "title": "It", "genre": "Horror", "duration": "Long", "mood": "Adventurous", "description": "a terrifying tale of friendship and fear." },
+    { "title": "Interstellar", "genre": "Sci-Fi", "duration": "Long", "mood": "Adventurous", "description": "an epic space adventure with breathtaking visuals." },
+    { "title": "Her", "genre": "Sci-Fi", "duration": "Medium", "mood": "Relaxed", "description": "a touching and thought-provoking film." },
+    { "title": "Ex Machina", "genre": "Sci-Fi", "duration": "Short", "mood": "Excited", "description": "a smart and intense AI drama with a runtime of 108 minutes." }
+]
